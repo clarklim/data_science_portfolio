@@ -55,7 +55,7 @@ This portfolio covers briefly only some of my projects. Please check this reposi
 ### Titanic_Machine Learning from Disaster
 (April 2019, Kaggle competition)
 
-- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Titanic Machine Learning from Disaster/titanic_randomforest.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Titanic Machine Learning from Disaster/titanic_summary.pdf)
+- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Titanic%Machine%Learning%from%Disaster/titanic_randomforest.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Titanic%Machine%Learning%from%Disaster/titanic_summary.pdf)
 
 - https://www.kaggle.com/c/titanic
 
@@ -69,7 +69,7 @@ Based on the data from Encycledia Titanica, which contained records from the Tit
 (May 2019, Kaggle competition)
 
 
-- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Bike Sharing Demand/bike-sharing-demand_LightGBM.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Bike Sharing Demand/bike-sharing-demand_summary.pdf)
+- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Bike% Sharing%Demand/bike-sharing-demand_LightGBM.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Bike%Sharing%Demand/bike-sharing-demand_summary.pdf)
 
 - https://www.kaggle.com/c/bike-sharing-demand
 
@@ -80,7 +80,7 @@ Based on the data from Encycledia Titanica, which contained records from the Tit
 ### Startup Data analysis_Healthcare
 (June 2019, 데이터 분석 프로젝트)
 
-- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Startup Data Analysis(Healthcare)/startup-healthcare_analysis.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Startup Data Analysis(Healthcare)/startup-healthcare_analysis.pdf)
+- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Startup%Data%Analysis(Healthcare)/startup-healthcare_analysis.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Startup%Data%Analysis(Healthcare)/startup-healthcare_analysis.pdf)
 
 - 헬스케어 스타트업 'n***'의 회원 정보와 행동 데이터를 정리하고 분석하였습니다. Data Cleaning을 진행한 뒤, Pandas를 통해 데이터를 분석했습니다. 
 아래와 같이 질문을 설정하고 데이터에 기반한 솔루션을 제시하였습니다.
@@ -97,7 +97,7 @@ The following hypotheses have been answered based on data:
 ### Startup Data analysis_Freelancer Openmarket
 (June 2019, 데이터 분석 프로젝트)
 
-- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Startup Data Analysis(Openmarket))/startup-openmarket_analysis.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Startup Data Analysis(Openmarket)/startup-openmarket_analysis.pdf)
+- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Startup%Data%Analysis(Openmarket))/startup-openmarket_analysis.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Startup%Data%Analysis(Openmarket)/startup-openmarket_analysis.pdf)
 
 - 프리랜서 오픈마켓 서비스 k****의 데이터를 분석하기 전 가장 중요한 과정인 데이터 클리닝(Data Cleaning)을 맡아 진행했습니다. 웹, 아이폰, 안드로이드등 다앙한 디바이스와 OS로 서비스를 이용하고 있는 사용자의 웹,앱 행동 데이터를 정리한 뒤, pandas 의 merge나 concat등을 활용해 하나로 묶어주는 작업을 진행했습니다. 
 
@@ -106,7 +106,7 @@ The following hypotheses have been answered based on data:
 ### Startup Data analysis_Fashion Shoppingmall Recommendation
 (July 2019, 데이터 분석 프로젝트)
 
-- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Startup Data Analysis(Fashion))/startup-fashion_analysis.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Startup Data Analysis(Fashion)/startup-fashion_analysis.pdf)
+- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Startup%Data%Analysis(Fashion))/startup-fashion_analysis.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Startup%Data% Analysis(Fashion)/startup-fashion_analysis.pdf)
 
 - 패션 쇼핑몰 추천 스타트업 'z*****'의 로그 데이터를 바탕으로 매출 분석 등 데이터 탐색을 진행 하였습니다. 
  * 데이터베이스에서 SQL을 통해 고객 정보, 거래 정보, 상품 정보, 그리고 고객의 행동 정보를 로드하여, 데이터 시각화를 통해 데이터를 이해하고 분석하는데 중점을 두었습니다. 
@@ -119,7 +119,7 @@ The following hypotheses have been answered based on data:
 ### Otto Group Product Classification Challenge
 (August 2019, Kaggle competition)
 
-- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Otto Group Product Classification Challenge/otto-group-product-classification-challenge.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Otto Group Product Classification Challenge/otto-group-product-classification-challenge.pdf)
+- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Otto%Group%Product%Classification%Challenge/otto-group-product-classification-challenge.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Otto%Group%Product%Classification%Challenge/otto-group-product-classification-challenge.pdf)
 
 - https://www.kaggle.com/c/bike-sharing-demand
 
