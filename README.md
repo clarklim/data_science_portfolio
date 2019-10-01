@@ -15,11 +15,11 @@ Table of Contents
 
 본 저장소는 개인적으로 진행한 프로젝트와 Kaggle에 참여했던 프로젝트,
 고려대학교 컴퓨터정보통신 대학원에서 진행한 프로젝트를 정리하는 곳입니다. 
-내용과 관련한 문의는 언제든지 clarklimr@korea.ac.kr 로 해주시면 감사하겠습니다.
+내용과 관련한 문의는 언제든지 clarklim@korea.ac.kr 로 해주시면 감사하겠습니다.
 
 This repository is a personal project, a project that participated in the Kagle,
 It includes a project conducted by the Department of Big Data Convergence at Korea University.
-Please fell free to contact me at clarklimr@korea.ac.kr
+Please fell free to contact me at clarklim@korea.ac.kr
 
 몇몇 프로젝트 자료에서 데이터가 누락된 경우는 용량 문제나 공개가 불가능하기 때문입니다.
 
