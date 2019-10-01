@@ -6,9 +6,9 @@ Table of Contents
       * [Contents](#contents)
          * [Titanic_Machine Learning from Disaster](#Titanic_Machine-Learning-from-Disaster)
          * [Bike Sharing Demand ](#Bike-Sharing-Demand )
-         * [Startup Data analysis(Healthcare)](#Startup-Data-analysis(Healthcare))
-         * [Startup Data analysis(Freelancer Openmarket)](#Startup-Data-analysis(Freelancer-Openmarket))
-         * [Startup Data analysis(Fashion Shoppingmall Recommendation)](#Startup-Data-analysis(Fashion-Shoppingmall-Recommendation))
+         * [Startup Data analysis_Healthcare](#Startup-Data-analysis_Healthcare)
+         * [Startup Data analysis_Freelancer Openmarket](#Startup-Data-analysis_Freelancer-Openmarket)
+         * [Startup Data analysis_Fashion Shoppingmall Recommendation](#Startup-Data-analysis_Fashion-Shoppingmall-Recommendation)
          * [Otto Group Product Classification Challenge](#Otto-Group-Product-Classification-Challenge)
 
 # Personal Projects
@@ -77,7 +77,7 @@ Based on the data from Encycledia Titanica, which contained records from the Tit
 
 - Using data from Capital Bikeshare, a bicycle rental startup based in Washington, D.C., we predicted how many people rent bicycles at a certain time. I've implemented the predictor model through 'Explory Data Analysis' and 'RandomForest(Coarse & Finer Search)', 'lightGBM'. Finally I've ranked the top 2.9% in the Kaggle Compute.
 
-### Startup Data analysis(Healthcare)
+### Startup Data analysis_Healthcare
 (June 2019, 데이터 분석 프로젝트)
 
 - [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Startup Data Analysis(Healthcare)/startup-healthcare_analysis.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Startup Data Analysis(Healthcare)/startup-healthcare_analysis.pdf)
@@ -94,7 +94,7 @@ The following hypotheses have been answered based on data:
 * When do free users usually switch to paid users?
 * Among coaches coaching paid users, which coach is the most satisfactory
 
-### Startup Data analysis(Freelancer Openmarket)
+### Startup Data analysis_Freelancer Openmarket
 (June 2019, 데이터 분석 프로젝트)
 
 - [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Startup Data Analysis(Openmarket))/startup-openmarket_analysis.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Startup Data Analysis(Openmarket)/startup-openmarket_analysis.pdf)
@@ -103,7 +103,7 @@ The following hypotheses have been answered based on data:
 
 - Before analyzing the data from the freelance open market service "k****," I was responsible for the most important process, Data Cleaning. After organizing the web and app behavior data of the users who are using the service with the web, iPhone, and Android devices and the OS, I used pandas's 'merge' and 'concat' to bring them together.
 
-### Startup Data analysis(Fashion Shoppingmall Recommendation)
+### Startup Data analysis_Fashion Shoppingmall Recommendation
 (July 2019, 데이터 분석 프로젝트)
 
 - [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Startup Data Analysis(Fashion))/startup-fashion_analysis.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Startup Data Analysis(Fashion)/startup-fashion_analysis.pdf)
