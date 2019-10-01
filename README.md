@@ -69,7 +69,7 @@ Based on the data from Encycledia Titanica, which contained records from the Tit
 (May 2019, Kaggle competition)
 
 
-- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Bike% Sharing%Demand/bike-sharing-demand_LightGBM.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Bike%Sharing%Demand/bike-sharing-demand_summary.pdf)
+- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Bike%Sharing%Demand/bike-sharing-demand_LightGBM.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Bike%Sharing%Demand/bike-sharing-demand_summary.pdf)
 
 - https://www.kaggle.com/c/bike-sharing-demand
 
@@ -106,7 +106,7 @@ The following hypotheses have been answered based on data:
 ### Startup Data analysis_Fashion Shoppingmall Recommendation
 (July 2019, 데이터 분석 프로젝트)
 
-- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Startup%Data%Analysis(Fashion))/startup-fashion_analysis.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Startup%Data% Analysis(Fashion)/startup-fashion_analysis.pdf)
+- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/Startup%Data%Analysis(Fashion))/startup-fashion_analysis.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/Startup%Data%Analysis(Fashion)/startup-fashion_analysis.pdf)
 
 - 패션 쇼핑몰 추천 스타트업 'z*****'의 로그 데이터를 바탕으로 매출 분석 등 데이터 탐색을 진행 하였습니다. 
  * 데이터베이스에서 SQL을 통해 고객 정보, 거래 정보, 상품 정보, 그리고 고객의 행동 정보를 로드하여, 데이터 시각화를 통해 데이터를 이해하고 분석하는데 중점을 두었습니다. 
