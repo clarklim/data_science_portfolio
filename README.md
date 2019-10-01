@@ -6,9 +6,9 @@ Table of Contents
       * [Contents](#contents)
          * [Titanic: Machine Learning from Disaster](#Titanic:-Machine-Learning-from-Disaster)
          * [Bike Sharing Demand ](#Bike-Sharing-Demand )
-         * [Startup Data analysis(헬스케어 스타트업)](#Startup-data-analysis(헬스케어-스타트업))
-         * [Startup Data analysis(프리랜서 오픈마켓 스타트업)](#Startup-Data analysis(프리랜서-오픈마켓-스타트업)))
-         * [Startup Data analysis(패션 쇼핑몰 추천 스타트업)](#Startup-data-analysis(패션-쇼핑몰-추천-스타트업))
+         * [Startup Data analysis(헬스케어 스타트업)](#Startup-Data-analysis(헬스케어-스타트업))
+         * [Startup Data analysis(프리랜서 오픈마켓 스타트업)](#Startup-Data-analysis(프리랜서-오픈마켓-스타트업)))
+         * [Startup Data analysis(패션 쇼핑몰 추천 스타트업)](#Startup-Data-analysis(패션-쇼핑몰-추천-스타트업))
          * [Otto Group Product Classification Challenge](#Otto-Group-Product-Classification-Challenge)
 
 # Personal Projects
