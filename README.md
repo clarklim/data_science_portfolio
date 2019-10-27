@@ -130,3 +130,17 @@ The following hypotheses have been answered based on data:
 Kaggle has provided an anonymous product dataset.
 I predicted product categories with this dataset.
 I compared three machine learning models using Random Forest, Gradient Boosting Machine (Sklearn), and LightGBM. I finally applied LightGBM and tuned important Hyperparameters (depth of tree, count of tree, etc.) through Random Search.
+
+### Tokenizning / POS 태깅 / Word extraction (KoNLPy)
+(September 2019, NLP 개인 프로젝트)
+
+- [Notebook](https://github.com/clarklim/data_science_portfolio/blob/master/KoNLPy/KoNLPy.ipynb) / [PDF](https://github.com/clarklim/data_science_portfolio/blob/master/KoNLPy/KoNLPy.pdf)
+
+- http://konlpy.org/ko/latest/
+
+- KoNLPy 는 Python에서 한국어 텍스트의 전처리를 할 수 있도록 토크나이징 / 품사 태깅 / 명사 추출을 하는 Packages입니다.
+KoNLPy에는 트위터(Okt) 형태소 분석기, 한나눔, 꼬꼬마, 코모란, 한국어-매캅 등 다양한 종류의 공개된 한국어 형태소 분석기들이 들어있습니다. 각 형태소 분석기마다 구현된 언어가 다릅니다. 형태소 분석기 마다 결과가 어떻게 다른지 비교하고 저의 상황에서 가장 사용하기에 편리한 분석기가 무엇인지 찾아보았습니다.
+
+- KoNLPy is Packages that do Tokenizing, POS tagging and Word Extraction to preprocess Korean text in Python.
+KoNLPy has a wide variety of open Korean morphology analyzers, including Twitter(Okt), Han Nanum, Kokoma, Komoran and Mecap.
+I compared the results of each analyzer and looked for the most convenient one to use in my situation.
